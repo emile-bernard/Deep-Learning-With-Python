@@ -5,15 +5,15 @@
 
 My version of the examples in the Deep Learning With Python book by François Chollet.
 
-## Setup
-
 ## Run
 
 Run each .py file as a python script.
 
 ## Technology Used
 
-- [Python](https://www.python.org/)
+- [Python 3.6](https://www.python.org/)
+- [Keras 2.0.8](https://faroit.github.io/keras-docs/2.0.8/)
+- [p2.xlarge EC2 instance](https://aws.amazon.com/fr/ec2/instance-types/p2/)
 
 ## Links
 
