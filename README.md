@@ -10,8 +10,16 @@ My version of the examples in the Deep Learning With Python book by François Ch
 1. Download Anaconda.
 
 2. Install the version of Anaconda which you downloaded, following the instructions on the download page.
+```
+conda install jupyter notebook
+```
 
-3. Run the Jupyter Notebook notebook:
+3. Install TensorFlow package:
+```
+pip install tensorflow # Current release for CPU-only
+```
+
+4. Run the Jupyter Notebook notebook:
 ```
 jupyter notebook
 ```
@@ -30,7 +38,7 @@ Run each .ipynb Jupyter notebooks.
 
 - [p2.xlarge EC2 instance](https://aws.amazon.com/fr/ec2/instance-types/p2/)
 
-- [Tensorflow package](https://www.tensorflow.org/install/pip)
+- [Tensorflow package](https://www.tensorflow.org/install/#overview)
 
 ## Links
 
