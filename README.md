@@ -18,7 +18,7 @@ jupyter notebook
 
 ## Run
 
-Run each .py file in Jupyter notebook.
+Run each .ipynb Jupyter notebooks.
 
 ## Technology Used
 
