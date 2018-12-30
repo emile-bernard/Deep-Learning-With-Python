@@ -11,7 +11,7 @@ Run each .py file as a python script.
 
 ## Technology Used
 
-- [Python 3.6](https://www.python.org/)
+- [Python 3.7.2](https://www.python.org/)
 - [Keras 2.0.8](https://faroit.github.io/keras-docs/2.0.8/)
 - [p2.xlarge EC2 instance](https://aws.amazon.com/fr/ec2/instance-types/p2/)
 
