@@ -7,12 +7,11 @@ My version of the examples in the Deep Learning With Python book by François Ch
 
 ## Setup
 
-1. Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.5).
+1. Download Anaconda.
 
 2. Install the version of Anaconda which you downloaded, following the instructions on the download page.
 
-3. Congratulations, you have installed Jupyter Notebook. To run the notebook:
-
+3. Run the Jupyter Notebook notebook:
 ```
 jupyter notebook
 ```
