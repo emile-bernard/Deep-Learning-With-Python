@@ -45,3 +45,5 @@ Run each .ipynb Jupyter notebooks.
 - [Deep Learning With Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 - [Deep Learning With Python Amazon](https://www.amazon.ca/dp/1617294438/ref=cm_sw_r_cp_apa_i_SfdjCb4CFBTJX)
+
+- [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)

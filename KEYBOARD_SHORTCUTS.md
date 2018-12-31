@@ -38,3 +38,7 @@ When you’re typing in a cell. Indicated by a green cell border.
 - tab code completion or indent
 - shift + tab tooltip
 - ctrl + shift + - split cell
+
+## Links
+
+- [Keyboard shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
