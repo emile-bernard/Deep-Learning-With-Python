@@ -34,7 +34,7 @@ Run each .ipynb Jupyter notebooks.
 
 - [Python 3.7.2](https://www.python.org/)
 
-- [Keras 2.0.8](https://faroit.github.io/keras-docs/2.0.8/)
+- [Keras 2.0.8](https://keras.io/)
 
 - [p2.xlarge EC2 instance](https://aws.amazon.com/fr/ec2/instance-types/p2/)
 
@@ -47,3 +47,7 @@ Run each .ipynb Jupyter notebooks.
 - [Deep Learning With Python Amazon](https://www.amazon.ca/dp/1617294438/ref=cm_sw_r_cp_apa_i_SfdjCb4CFBTJX)
 
 - [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
+
+- [Kaggle](https://www.kaggle.com/)
+
+- [Kaggle datasets](https://www.kaggle.com/datasets)
