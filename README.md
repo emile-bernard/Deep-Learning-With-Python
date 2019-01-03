@@ -51,3 +51,5 @@ Run each .ipynb Jupyter notebooks.
 - [Kaggle](https://www.kaggle.com/)
 
 - [Kaggle datasets](https://www.kaggle.com/datasets)
+
+- [Using local datasets with Keras](https://www.kaggle.com/fchollet/simple-deep-mlp-with-keras)
