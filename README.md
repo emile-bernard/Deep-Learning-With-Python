@@ -19,14 +19,12 @@ conda install jupyter notebook
 pip install tensorflow # Current release for CPU-only
 ```
 
-4. Run the Jupyter Notebook notebook:
+## Run
+
+Run the Jupyter Notebook notebook:
 ```
 jupyter notebook
 ```
-
-## Run
-
-Run each .ipynb Jupyter notebooks.
 
 ## Technology Used
 
