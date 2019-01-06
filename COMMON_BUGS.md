@@ -19,6 +19,14 @@ Specify the encoding when you open the file:
 file = open(filename, encoding="utf8")
 ```
 
+## Can't Import Matplotlib.pyplot
+
+```
+pip uninstall matplotlib
+python -m pip install --upgrade pip
+pip install matplotlib
+```
+
 ## Links
 
 - [No module named tensorflow in jupyter](https://stackoverflow.com/questions/38221181/no-module-named-tensorflow-in-jupyter)
@@ -26,3 +34,5 @@ file = open(filename, encoding="utf8")
 - [Tensorflow instal](https://www.tensorflow.org/install/#overview)
 
 - [UnicodeDecodeError: 'charmap' codec can't decode byte X in position Y: character maps to <undefined>](https://stackoverflow.com/questions/9233027/unicodedecodeerror-charmap-codec-cant-decode-byte-x-in-position-y-character)
+
+- [Can't Import Matplotlib.pyplot](https://github.com/matplotlib/matplotlib/issues/10252)
