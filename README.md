@@ -55,3 +55,5 @@ Run each .ipynb Jupyter notebooks.
 - [Using local datasets with Keras](https://www.kaggle.com/fchollet/simple-deep-mlp-with-keras)
 
 - [IMDB dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+
+- [GloVe word embeddings](https://nlp.stanford.edu/projects/glove/)
