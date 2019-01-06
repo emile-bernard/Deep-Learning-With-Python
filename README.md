@@ -53,3 +53,5 @@ Run each .ipynb Jupyter notebooks.
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 
 - [Using local datasets with Keras](https://www.kaggle.com/fchollet/simple-deep-mlp-with-keras)
+
+- [IMDB dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
